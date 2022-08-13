@@ -21,7 +21,7 @@ Currently working as **Software Engineering Consultant** at **DiUS**
 
 ## Tech Stack:
 - Language: JavaScript, TypeScript, Python, Java, Kotlin, Go
-- Framework/Library: React, Next.js, Svelte, Redux, Node.js, Express.js, GraphQ, WebdriverIO, Jest
+- Framework/Library: React, Next.js, Svelte, Redux, Node.js, Express.js, GraphQL, WebdriverIO, Jest
 - Cloud: AWS
 - Mobile App: React Native
 
