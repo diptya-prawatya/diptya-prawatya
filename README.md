@@ -15,15 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> I am Diptya, a software engineer in digital technology, with over 3 years of industry experience in mobile and web development, software quality assurance testing, and consulting. I am a problem-solver, critical thinker, and fast learner of new technologies with efficient communication and time management skills. I am experienced on working in agile environment and engaging client to deliver the optimal solution.
+> I'm a software engineer in digital technology, with over 3 years of industry experience in mobile and web development, software quality assurance testing, and consulting. I am a problem-solver, critical thinker, and fast learner of new technologies with efficient communication and time management skills. I am experienced on working in agile environment and engaging client to deliver the optimal solution.
 
-Currently working as **Associate Software Engineering Consultant** at **DiUS**
+Currently working as **Software Engineering Consultant** at **DiUS**
 
 ## Tech Stack:
-- Language: JavaScript, TypeScript, Python
-- Frontend: React, Next.js, Svelte, Redux, Styled Components, Material UI, GraphQL
-- Backend: Node.js
+- Language: JavaScript, TypeScript, Python, Java, Kotlin, Go
+- Framework/Library: React, Next.js, Svelte, Redux, Node.js, Express.js, GraphQ, WebdriverIO, Jest
+- Cloud: AWS
 - Mobile App: React Native
-- Testing: Appium, WebdriverIO, Jest
 
 #### 📫 How to reach me: diptyaprawatya@gmail.com
